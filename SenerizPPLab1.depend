@@ -1,0 +1,411 @@
+# depslib dependency file v1.0
+1589376300 source:c:\users\noel\desktop\pedro\1_programacion y laboratorio i\2020\senerizpplab1\marca.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"marca.h"
+
+1589371753 source:c:\users\noel\desktop\pedro\1_programacion y laboratorio i\2020\senerizpplab1\utn.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1589574846 source:c:\users\noel\desktop\pedro\1_programacion y laboratorio i\2020\senerizpplab1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"fecha.h"
+	"marca.h"
+	"tipo.h"
+	"notebook.h"
+	"servicio.h"
+	"trabajo.h"
+	"utn.h"
+
+1589370977 c:\users\noel\desktop\pedro\1_programacion y laboratorio i\2020\senerizpplab1\fecha.h
+
+1589376294 c:\users\noel\desktop\pedro\1_programacion y laboratorio i\2020\senerizpplab1\marca.h
+
+1589374471 c:\users\noel\desktop\pedro\1_programacion y laboratorio i\2020\senerizpplab1\tipo.h
+
+1589488248 c:\users\noel\desktop\pedro\1_programacion y laboratorio i\2020\senerizpplab1\notebook.h
+	"marca.h"
+	"tipo.h"
+
+1589487991 c:\users\noel\desktop\pedro\1_programacion y laboratorio i\2020\senerizpplab1\servicio.h
+
+1589489099 c:\users\noel\desktop\pedro\1_programacion y laboratorio i\2020\senerizpplab1\trabajo.h
+	"fecha.h"
+	"notebook.h"
+	"servicio.h"
+
+1589489532 source:c:\users\noel\desktop\pedro\1_programacion y laboratorio i\2020\senerizpplab1\notebook.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"notebook.h"
+	"servicio.h"
+	"tipo.h"
+	"marca.h"
+	"trabajo.h"
+	"utn.h"
+
+1589425566 source:c:\users\noel\desktop\pedro\1_programacion y laboratorio i\2020\senerizpplab1\servicio.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"servicio.h"
+
+1589489822 source:c:\users\noel\desktop\pedro\1_programacion y laboratorio i\2020\senerizpplab1\trabajo.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"trabajo.h"
+	"notebook.h"
+	"servicio.h"
+	"utn.h"
+
+1589374506 source:c:\users\noel\desktop\pedro\1_programacion y laboratorio i\2020\senerizpplab1\tipo.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"tipo.h"
+
+1589371736 c:\users\noel\desktop\pedro\1_programacion y laboratorio i\2020\senerizpplab1\utn.h
+
+1589839880 source:c:\users\noel\desktop\pedro\1_programacion y laboratorio i\2020\senerizpplab1\senerizpplab1\marca.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"marca.h"
+
+1589817624 c:\users\noel\desktop\pedro\1_programacion y laboratorio i\2020\senerizpplab1\senerizpplab1\marca.h
+
+1589935712 source:c:\users\noel\desktop\pedro\1_programacion y laboratorio i\2020\senerizpplab1\senerizpplab1\notebook.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"notebook.h"
+	"servicio.h"
+	"tipo.h"
+	"marca.h"
+	"trabajo.h"
+	"utn.h"
+	"datawarehouse.h"
+
+1589974803 c:\users\noel\desktop\pedro\1_programacion y laboratorio i\2020\senerizpplab1\senerizpplab1\notebook.h
+	"marca.h"
+	"tipo.h"
+
+1589838173 c:\users\noel\desktop\pedro\1_programacion y laboratorio i\2020\senerizpplab1\senerizpplab1\tipo.h
+
+1589817614 c:\users\noel\desktop\pedro\1_programacion y laboratorio i\2020\senerizpplab1\senerizpplab1\servicio.h
+
+1589935526 c:\users\noel\desktop\pedro\1_programacion y laboratorio i\2020\senerizpplab1\senerizpplab1\trabajo.h
+	"fecha.h"
+	"notebook.h"
+	"servicio.h"
+
+1589370977 c:\users\noel\desktop\pedro\1_programacion y laboratorio i\2020\senerizpplab1\senerizpplab1\fecha.h
+
+1589371736 c:\users\noel\desktop\pedro\1_programacion y laboratorio i\2020\senerizpplab1\senerizpplab1\utn.h
+
+1589841315 source:c:\users\noel\desktop\pedro\1_programacion y laboratorio i\2020\senerizpplab1\senerizpplab1\servicio.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"servicio.h"
+
+1589841393 source:c:\users\noel\desktop\pedro\1_programacion y laboratorio i\2020\senerizpplab1\senerizpplab1\tipo.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"tipo.h"
+
+1589936497 source:c:\users\noel\desktop\pedro\1_programacion y laboratorio i\2020\senerizpplab1\senerizpplab1\trabajo.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"trabajo.h"
+	"notebook.h"
+	"servicio.h"
+	"utn.h"
+
+1589371753 source:c:\users\noel\desktop\pedro\1_programacion y laboratorio i\2020\senerizpplab1\senerizpplab1\utn.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1589935854 source:c:\users\noel\desktop\pedro\1_programacion y laboratorio i\2020\senerizpplab1\senerizpplab1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"fecha.h"
+	"marca.h"
+	"tipo.h"
+	"notebook.h"
+	"servicio.h"
+	"trabajo.h"
+	"utn.h"
+
+1589895089 c:\users\noel\desktop\pedro\1_programacion y laboratorio i\2020\senerizpplab1\senerizpplab1\datawarehouse.h
+
+1589829828 source:c:\users\noel\desktop\copias\senerizpplab1 - copia (2)\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"fecha.h"
+	"marca.h"
+	"tipo.h"
+	"notebook.h"
+	"servicio.h"
+	"trabajo.h"
+	"utn.h"
+	"datawarehouse.h"
+
+1589370977 c:\users\noel\desktop\copias\senerizpplab1 - copia (2)\fecha.h
+
+1589817624 c:\users\noel\desktop\copias\senerizpplab1 - copia (2)\marca.h
+
+1589817647 c:\users\noel\desktop\copias\senerizpplab1 - copia (2)\tipo.h
+
+1589829599 c:\users\noel\desktop\copias\senerizpplab1 - copia (2)\notebook.h
+	"marca.h"
+	"tipo.h"
+
+1589817614 c:\users\noel\desktop\copias\senerizpplab1 - copia (2)\servicio.h
+
+1589817633 c:\users\noel\desktop\copias\senerizpplab1 - copia (2)\trabajo.h
+	"fecha.h"
+	"notebook.h"
+	"servicio.h"
+
+1589371736 c:\users\noel\desktop\copias\senerizpplab1 - copia (2)\utn.h
+
+1589817603 source:c:\users\noel\desktop\copias\senerizpplab1 - copia (2)\marca.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"marca.h"
+
+1589830082 source:c:\users\noel\desktop\copias\senerizpplab1 - copia (2)\notebook.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"notebook.h"
+	"servicio.h"
+	"tipo.h"
+	"marca.h"
+	"trabajo.h"
+	"utn.h"
+
+1589817578 source:c:\users\noel\desktop\copias\senerizpplab1 - copia (2)\servicio.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"servicio.h"
+
+1589817591 source:c:\users\noel\desktop\copias\senerizpplab1 - copia (2)\tipo.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"tipo.h"
+
+1589817605 source:c:\users\noel\desktop\copias\senerizpplab1 - copia (2)\trabajo.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"trabajo.h"
+	"notebook.h"
+	"servicio.h"
+	"utn.h"
+
+1589371753 source:c:\users\noel\desktop\copias\senerizpplab1 - copia (2)\utn.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1589815149 c:\users\noel\desktop\copias\senerizpplab1 - copia (2)\datawarehouse.h
+
+1589829828 source:c:\users\noel\desktop\copias\senerizpplab1 -2 hardcode y imprime bien - copia\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"fecha.h"
+	"marca.h"
+	"tipo.h"
+	"notebook.h"
+	"servicio.h"
+	"trabajo.h"
+	"utn.h"
+	"datawarehouse.h"
+
+1589370977 c:\users\noel\desktop\copias\senerizpplab1 -2 hardcode y imprime bien - copia\fecha.h
+
+1589817624 c:\users\noel\desktop\copias\senerizpplab1 -2 hardcode y imprime bien - copia\marca.h
+
+1589817647 c:\users\noel\desktop\copias\senerizpplab1 -2 hardcode y imprime bien - copia\tipo.h
+
+1589829599 c:\users\noel\desktop\copias\senerizpplab1 -2 hardcode y imprime bien - copia\notebook.h
+	"marca.h"
+	"tipo.h"
+
+1589817614 c:\users\noel\desktop\copias\senerizpplab1 -2 hardcode y imprime bien - copia\servicio.h
+
+1589817633 c:\users\noel\desktop\copias\senerizpplab1 -2 hardcode y imprime bien - copia\trabajo.h
+	"fecha.h"
+	"notebook.h"
+	"servicio.h"
+
+1589371736 c:\users\noel\desktop\copias\senerizpplab1 -2 hardcode y imprime bien - copia\utn.h
+
+1589815149 c:\users\noel\desktop\copias\senerizpplab1 -2 hardcode y imprime bien - copia\datawarehouse.h
+
+1589817603 source:c:\users\noel\desktop\copias\senerizpplab1 -2 hardcode y imprime bien - copia\marca.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"marca.h"
+
+1589830082 source:c:\users\noel\desktop\copias\senerizpplab1 -2 hardcode y imprime bien - copia\notebook.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"notebook.h"
+	"servicio.h"
+	"tipo.h"
+	"marca.h"
+	"trabajo.h"
+	"utn.h"
+
+1589817578 source:c:\users\noel\desktop\copias\senerizpplab1 -2 hardcode y imprime bien - copia\servicio.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"servicio.h"
+
+1589817591 source:c:\users\noel\desktop\copias\senerizpplab1 -2 hardcode y imprime bien - copia\tipo.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"tipo.h"
+
+1589817605 source:c:\users\noel\desktop\copias\senerizpplab1 -2 hardcode y imprime bien - copia\trabajo.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"trabajo.h"
+	"notebook.h"
+	"servicio.h"
+	"utn.h"
+
+1589371753 source:c:\users\noel\desktop\copias\senerizpplab1 -2 hardcode y imprime bien - copia\utn.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1589839880 source:c:\users\noel\desktop\senerizpplab1 - copia\marca.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"marca.h"
+
+1589817624 c:\users\noel\desktop\senerizpplab1 - copia\marca.h
+
+1589984925 source:c:\users\noel\desktop\senerizpplab1 - copia\notebook.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"notebook.h"
+	"servicio.h"
+	"tipo.h"
+	"marca.h"
+	"trabajo.h"
+	"utn.h"
+	"cliente.h"
+
+1589984897 c:\users\noel\desktop\senerizpplab1 - copia\notebook.h
+	"marca.h"
+	"tipo.h"
+	"cliente.h"
+
+1589838173 c:\users\noel\desktop\senerizpplab1 - copia\tipo.h
+
+1589817614 c:\users\noel\desktop\senerizpplab1 - copia\servicio.h
+
+1589984951 c:\users\noel\desktop\senerizpplab1 - copia\trabajo.h
+	"fecha.h"
+	"notebook.h"
+	"servicio.h"
+
+1589370977 c:\users\noel\desktop\senerizpplab1 - copia\fecha.h
+
+1589371736 c:\users\noel\desktop\senerizpplab1 - copia\utn.h
+
+1589982014 c:\users\noel\desktop\senerizpplab1 - copia\datawarehouse.h
+
+1589841315 source:c:\users\noel\desktop\senerizpplab1 - copia\servicio.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"servicio.h"
+
+1589371753 source:c:\users\noel\desktop\senerizpplab1 - copia\utn.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1589984908 source:c:\users\noel\desktop\senerizpplab1 - copia\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"fecha.h"
+	"marca.h"
+	"tipo.h"
+	"notebook.h"
+	"servicio.h"
+	"trabajo.h"
+	"utn.h"
+	"cliente.h"
+	"datawarehouse.h"
+	"informes.h"
+
+1589841393 source:c:\users\noel\desktop\senerizpplab1 - copia\tipo.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"tipo.h"
+
+1589984965 source:c:\users\noel\desktop\senerizpplab1 - copia\trabajo.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"trabajo.h"
+	"notebook.h"
+	"servicio.h"
+	"utn.h"
+
+1589984988 source:c:\users\noel\desktop\senerizpplab1 - copia\cliente.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"cliente.h"
+
+1589975425 c:\users\noel\desktop\senerizpplab1 - copia\cliente.h
+
+1589984963 source:c:\users\noel\desktop\senerizpplab1 - copia\informes.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"informes.h"
+
+1589984947 c:\users\noel\desktop\senerizpplab1 - copia\informes.h
+	"fecha.h"
+	"marca.h"
+	"tipo.h"
+	"notebook.h"
+	"servicio.h"
+	"trabajo.h"
+	"utn.h"
+	"cliente.h"
+
