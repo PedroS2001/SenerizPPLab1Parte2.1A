@@ -409,3 +409,108 @@
 	"utn.h"
 	"cliente.h"
 
+1589984988 source:c:\users\noel\desktop\pedro\1_programacion y laboratorio i\2020\asd\senerizpplab1parte2.1a\cliente.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"cliente.h"
+
+1589975425 c:\users\noel\desktop\pedro\1_programacion y laboratorio i\2020\asd\senerizpplab1parte2.1a\cliente.h
+
+1589984963 source:c:\users\noel\desktop\pedro\1_programacion y laboratorio i\2020\asd\senerizpplab1parte2.1a\informes.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"informes.h"
+
+1589984947 c:\users\noel\desktop\pedro\1_programacion y laboratorio i\2020\asd\senerizpplab1parte2.1a\informes.h
+	"fecha.h"
+	"marca.h"
+	"tipo.h"
+	"notebook.h"
+	"servicio.h"
+	"trabajo.h"
+	"utn.h"
+	"cliente.h"
+
+1589370977 c:\users\noel\desktop\pedro\1_programacion y laboratorio i\2020\asd\senerizpplab1parte2.1a\fecha.h
+
+1589817624 c:\users\noel\desktop\pedro\1_programacion y laboratorio i\2020\asd\senerizpplab1parte2.1a\marca.h
+
+1589838173 c:\users\noel\desktop\pedro\1_programacion y laboratorio i\2020\asd\senerizpplab1parte2.1a\tipo.h
+
+1589984897 c:\users\noel\desktop\pedro\1_programacion y laboratorio i\2020\asd\senerizpplab1parte2.1a\notebook.h
+	"marca.h"
+	"tipo.h"
+	"cliente.h"
+
+1589817614 c:\users\noel\desktop\pedro\1_programacion y laboratorio i\2020\asd\senerizpplab1parte2.1a\servicio.h
+
+1589984951 c:\users\noel\desktop\pedro\1_programacion y laboratorio i\2020\asd\senerizpplab1parte2.1a\trabajo.h
+	"fecha.h"
+	"notebook.h"
+	"servicio.h"
+
+1589371736 c:\users\noel\desktop\pedro\1_programacion y laboratorio i\2020\asd\senerizpplab1parte2.1a\utn.h
+
+1589984908 source:c:\users\noel\desktop\pedro\1_programacion y laboratorio i\2020\asd\senerizpplab1parte2.1a\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"fecha.h"
+	"marca.h"
+	"tipo.h"
+	"notebook.h"
+	"servicio.h"
+	"trabajo.h"
+	"utn.h"
+	"cliente.h"
+	"datawarehouse.h"
+	"informes.h"
+
+1589982014 c:\users\noel\desktop\pedro\1_programacion y laboratorio i\2020\asd\senerizpplab1parte2.1a\datawarehouse.h
+
+1589839880 source:c:\users\noel\desktop\pedro\1_programacion y laboratorio i\2020\asd\senerizpplab1parte2.1a\marca.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"marca.h"
+
+1589984925 source:c:\users\noel\desktop\pedro\1_programacion y laboratorio i\2020\asd\senerizpplab1parte2.1a\notebook.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"notebook.h"
+	"servicio.h"
+	"tipo.h"
+	"marca.h"
+	"trabajo.h"
+	"utn.h"
+	"cliente.h"
+
+1589841315 source:c:\users\noel\desktop\pedro\1_programacion y laboratorio i\2020\asd\senerizpplab1parte2.1a\servicio.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"servicio.h"
+
+1589841393 source:c:\users\noel\desktop\pedro\1_programacion y laboratorio i\2020\asd\senerizpplab1parte2.1a\tipo.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"tipo.h"
+
+1589984965 source:c:\users\noel\desktop\pedro\1_programacion y laboratorio i\2020\asd\senerizpplab1parte2.1a\trabajo.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"trabajo.h"
+	"notebook.h"
+	"servicio.h"
+	"utn.h"
+
+1589371753 source:c:\users\noel\desktop\pedro\1_programacion y laboratorio i\2020\asd\senerizpplab1parte2.1a\utn.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

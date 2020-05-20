@@ -206,5 +206,34 @@ void informarTrabajosSobreNotebook(eNotebook* notebook,int tamnot, int cantnot, 
     }
 }
 
+void notebooksUnServicio(eNotebook* notebook,int cantnot, eMarca* marca, eTipo* tipo, eCliente* cliente, eServicio* servicio, eTrabajo* trabajo, int canTrab)
+{
+    int iDserv;
+    int idnot;
+    system("cls");
+    char descripcion[20];
+
+    listarServicios(servicio,4);
+    utn_getNumero(&iDserv,"Ingrese el ID del servicio: ", "ERROR\n\n",20000,20003,2);
+    cargarDescripcionServicio(descripcion,iDserv,servicio,4);
+    printf("SERVICIO: %s\n",descripcion);
+
+    for(int i=0; i<4; i++) //array de servicios
+    {
+        if(servicio[i].id == iDserv)
+        {
+            for(int j=0; j<canTrab; j++)
+            {
+                if(trabajo[j].idServicio == iDserv)
+                {
+                    idnot = trabajo[j].idNotebook;
+                    printf("\n %20s:  %02d/%02d/%04d\n","FECHA",trabajo[j].fecha.dia, trabajo[j].fecha.mes, trabajo[j].fecha.anio);
+                    printf("ID      MODELO    NOMBRECLIENTE   MARCA        TIPO      PRECIO\n");
+                    imprimirNotebook(notebook[idnot-1],marca,tipo,cliente);
+                }
+            }
+        }
+    }
+}
 
 

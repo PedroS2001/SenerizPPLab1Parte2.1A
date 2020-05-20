@@ -247,8 +247,9 @@ int main()
                 break;
             case 8:
                 sumaServicesNotebook(notebook,TAMNOTE,idNotebook-1,trabajo,TTRABAJO,hServicios,hTipos,hMarcas,cliente);
-
-
+                break;
+            case 9:
+                notebooksUnServicio(notebook,idNotebook-1,hMarcas,hTipos,cliente,hServicios,trabajo,TTRABAJO);
                 break;
             }
 
@@ -303,9 +304,11 @@ int menuInformes()
     printf("6) Informar la marca mas elegida \n");
     printf("7) Informar Trabajos sobre una notebook \n");
     printf("8) Informar la suma de los importes de los services sobre una notebook \n");
+    printf("9) Pedir un servicio y mostrar las notebooks a las que se realizó ese servicio y la fecha  \n");
 
-    printf("9) Salir\n\n");
-    utn_getNumero(&opcion,"Seleccione una opcion: ", "ERROR\n\n",1,9,2);
+
+    printf("11) Salir\n\n");
+    utn_getNumero(&opcion,"Seleccione una opcion: ", "ERROR\n\n",1,11,2);
 
     return opcion;
 }
@@ -349,3 +352,4 @@ int hardcodearNotebooks(eNotebook* notebook, int cant)
     }
     return 0;
 }
+

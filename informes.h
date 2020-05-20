@@ -22,4 +22,4 @@ void informarNotebooksTipoYMarca(eNotebook* notebook, int tamnot, eTipo* tipos, 
 void informarLaMarcaMasElegida(eNotebook* notebook, int tamnot, eTipo* tipos, eMarca* marcas, eCliente* cliente);
 
 void informarTrabajosSobreNotebook(eNotebook* notebook,int tamnot, int cantnot, eTrabajo* trabajo,int tamtrab, eMarca* marca, eTipo* tipo, eServicio* servicios, eCliente* cliente);
-
+void notebooksUnServicio(eNotebook* notebook,int cantnot, eMarca* marca, eTipo* tipo, eCliente* cliente, eServicio* servicio, eTrabajo* trabajo, int canTrab);
