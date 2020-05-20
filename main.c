@@ -251,6 +251,10 @@ int main()
             case 9:
                 notebooksUnServicio(notebook,idNotebook-1,hMarcas,hTipos,cliente,hServicios,trabajo,TTRABAJO);
                 break;
+            case 10:
+                printf("10\n");
+                mostrarServiciosFecha(trabajo,idTrabajo-1,hServicios,notebook,idNotebook-1,hMarcas,hTipos,cliente);
+                break;
             }
 
             break;
@@ -305,6 +309,7 @@ int menuInformes()
     printf("7) Informar Trabajos sobre una notebook \n");
     printf("8) Informar la suma de los importes de los services sobre una notebook \n");
     printf("9) Pedir un servicio y mostrar las notebooks a las que se realizó ese servicio y la fecha  \n");
+    printf("10) Pedir una fecha y mostrar todos los servicios realizados en la misma  \n");
 
 
     printf("11) Salir\n\n");
@@ -353,3 +358,28 @@ int hardcodearNotebooks(eNotebook* notebook, int cant)
     return 0;
 }
 
+void mostrarServiciosFecha(eTrabajo* trabajo,int tamtrab, eServicio* servicio,eNotebook* notebook, int cantnot, eMarca* marca, eTipo* tipo, eCliente* cliente)
+{
+    int i;
+    eFecha aux;
+    int idnot;
+
+    utn_getNumero(&aux.dia,"Ingrese dia: ","ERROR\n",1,30,2);
+    utn_getNumero(&aux.mes,"Ingrese mes: ","ERROR\n",1,12,2);
+    utn_getNumero(&aux.anio,"Ingrese anio: ","ERROR\n",2010,2020,2);
+
+            printf(" ID       DESCRIPCION    PRECIO\n");
+    for(i=0;i<tamtrab;i++)
+    {
+        if(aux.anio == trabajo[i].fecha.anio && aux.mes == trabajo[i].fecha.mes && aux.dia == trabajo[i].fecha.dia)
+        {
+                    printf("%d %15s    %.2f\n",servicio[i].id, servicio[i].descripcion, servicio[i].precio);
+                    idnot = trabajo[i].idNotebook;
+                    printf("\n %20s:  %02d/%02d/%04d\n","FECHA",trabajo[i].fecha.dia, trabajo[i].fecha.mes, trabajo[i].fecha.anio);
+                    printf("ID      MODELO    NOMBRECLIENTE   MARCA        TIPO      PRECIO\n");
+                    imprimirNotebook(notebook[idnot-1],marca,tipo,cliente);
+        }
+    }
+
+
+}

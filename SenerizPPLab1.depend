@@ -417,13 +417,13 @@
 
 1589975425 c:\users\noel\desktop\pedro\1_programacion y laboratorio i\2020\asd\senerizpplab1parte2.1a\cliente.h
 
-1589984963 source:c:\users\noel\desktop\pedro\1_programacion y laboratorio i\2020\asd\senerizpplab1parte2.1a\informes.c
+1589986473 source:c:\users\noel\desktop\pedro\1_programacion y laboratorio i\2020\asd\senerizpplab1parte2.1a\informes.c
 	<stdio.h>
 	<stdlib.h>
 	<string.h>
 	"informes.h"
 
-1589984947 c:\users\noel\desktop\pedro\1_programacion y laboratorio i\2020\asd\senerizpplab1parte2.1a\informes.h
+1589986484 c:\users\noel\desktop\pedro\1_programacion y laboratorio i\2020\asd\senerizpplab1parte2.1a\informes.h
 	"fecha.h"
 	"marca.h"
 	"tipo.h"
