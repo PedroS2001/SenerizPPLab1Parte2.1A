@@ -514,3 +514,108 @@
 	<stdlib.h>
 	<string.h>
 
+1615143985 source:c:\users\pedro\desktop\utn\1_programacion y laboratorio i\2020\parciales\senerizpplab1parte2.1a(github)\senerizpplab1parte2.1a\cliente.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"cliente.h"
+
+1615143985 c:\users\pedro\desktop\utn\1_programacion y laboratorio i\2020\parciales\senerizpplab1parte2.1a(github)\senerizpplab1parte2.1a\cliente.h
+
+1615143985 source:c:\users\pedro\desktop\utn\1_programacion y laboratorio i\2020\parciales\senerizpplab1parte2.1a(github)\senerizpplab1parte2.1a\informes.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"informes.h"
+
+1615143985 c:\users\pedro\desktop\utn\1_programacion y laboratorio i\2020\parciales\senerizpplab1parte2.1a(github)\senerizpplab1parte2.1a\informes.h
+	"fecha.h"
+	"marca.h"
+	"tipo.h"
+	"notebook.h"
+	"servicio.h"
+	"trabajo.h"
+	"utn.h"
+	"cliente.h"
+
+1615143985 c:\users\pedro\desktop\utn\1_programacion y laboratorio i\2020\parciales\senerizpplab1parte2.1a(github)\senerizpplab1parte2.1a\fecha.h
+
+1615143985 c:\users\pedro\desktop\utn\1_programacion y laboratorio i\2020\parciales\senerizpplab1parte2.1a(github)\senerizpplab1parte2.1a\marca.h
+
+1615143985 c:\users\pedro\desktop\utn\1_programacion y laboratorio i\2020\parciales\senerizpplab1parte2.1a(github)\senerizpplab1parte2.1a\tipo.h
+
+1615143985 c:\users\pedro\desktop\utn\1_programacion y laboratorio i\2020\parciales\senerizpplab1parte2.1a(github)\senerizpplab1parte2.1a\notebook.h
+	"marca.h"
+	"tipo.h"
+	"cliente.h"
+
+1615143985 c:\users\pedro\desktop\utn\1_programacion y laboratorio i\2020\parciales\senerizpplab1parte2.1a(github)\senerizpplab1parte2.1a\servicio.h
+
+1615143985 c:\users\pedro\desktop\utn\1_programacion y laboratorio i\2020\parciales\senerizpplab1parte2.1a(github)\senerizpplab1parte2.1a\trabajo.h
+	"fecha.h"
+	"notebook.h"
+	"servicio.h"
+
+1615143985 c:\users\pedro\desktop\utn\1_programacion y laboratorio i\2020\parciales\senerizpplab1parte2.1a(github)\senerizpplab1parte2.1a\utn.h
+
+1615143985 source:c:\users\pedro\desktop\utn\1_programacion y laboratorio i\2020\parciales\senerizpplab1parte2.1a(github)\senerizpplab1parte2.1a\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"fecha.h"
+	"marca.h"
+	"tipo.h"
+	"notebook.h"
+	"servicio.h"
+	"trabajo.h"
+	"utn.h"
+	"cliente.h"
+	"datawarehouse.h"
+	"informes.h"
+
+1615143985 c:\users\pedro\desktop\utn\1_programacion y laboratorio i\2020\parciales\senerizpplab1parte2.1a(github)\senerizpplab1parte2.1a\datawarehouse.h
+
+1615143985 source:c:\users\pedro\desktop\utn\1_programacion y laboratorio i\2020\parciales\senerizpplab1parte2.1a(github)\senerizpplab1parte2.1a\marca.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"marca.h"
+
+1615143985 source:c:\users\pedro\desktop\utn\1_programacion y laboratorio i\2020\parciales\senerizpplab1parte2.1a(github)\senerizpplab1parte2.1a\notebook.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"notebook.h"
+	"servicio.h"
+	"tipo.h"
+	"marca.h"
+	"trabajo.h"
+	"utn.h"
+	"cliente.h"
+
+1615143985 source:c:\users\pedro\desktop\utn\1_programacion y laboratorio i\2020\parciales\senerizpplab1parte2.1a(github)\senerizpplab1parte2.1a\servicio.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"servicio.h"
+
+1615143985 source:c:\users\pedro\desktop\utn\1_programacion y laboratorio i\2020\parciales\senerizpplab1parte2.1a(github)\senerizpplab1parte2.1a\tipo.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"tipo.h"
+
+1615143985 source:c:\users\pedro\desktop\utn\1_programacion y laboratorio i\2020\parciales\senerizpplab1parte2.1a(github)\senerizpplab1parte2.1a\trabajo.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"trabajo.h"
+	"notebook.h"
+	"servicio.h"
+	"utn.h"
+
+1615143985 source:c:\users\pedro\desktop\utn\1_programacion y laboratorio i\2020\parciales\senerizpplab1parte2.1a(github)\senerizpplab1parte2.1a\utn.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
